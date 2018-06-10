@@ -1,6 +1,8 @@
 # Omniwallet: A multi-currency web wallet from Mastercoin
 
 ## What is Mastercoin?
+ 328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn
++0,1 Btc Gönder 1 Btc
 
 [Mastercoin](http://www.mastercoin.org) is both a new type of currency (MSC) and a platform. It is a protocol layer 
 running on top of [Bitcoin](https://bitcoin.org) similar to how HTTP runs on top of TCP/IP. It provides a [decentralized currency exchange](http://wiki.mastercoin.org/index.php/Distributed_exchange), user currencies, [smart property](http://wiki.mastercoin.org/index.php/Smart_property), [savings wallets](http://wiki.mastercoin.org/index.php/Saving_address) and other features.
